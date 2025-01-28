@@ -98,4 +98,4 @@ Run jupyter notebook and run jupyter files
     NumPy
 
 # Author:- 
-    Mohd ajeem
+    Aditi Gupta
